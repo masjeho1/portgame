@@ -1,0 +1,14 @@
+# https://nanangmrk.com/daftar-port-game-terbaru-2021/
+payload:
+  # TCP
+  - DST-PORT,27015
+  - DST-PORT,27036
+  
+  # UDP
+  - DST-PORT,27015
+  - DST-PORT,27031
+  - DST-PORT,27032
+  - DST-PORT,27033
+  - DST-PORT,27034
+  - DST-PORT,27035
+  - DST-PORT,27036
