@@ -9,6 +9,7 @@
 #Hapus SrcIPCIDR 198.18.0.1/32, yg berada di usr/share/openclash/backup/openclash_costum_rule.list
 
 #Rule :
+payload:
   # Zerotier
   - DOMAIN,my.zerotier.com
   - DOMAIN-SUFFIX,zerotier.com
