@@ -1,6 +1,8 @@
 # https://nanangmrk.com/daftar-port-game-terbaru-2021/
 payload:
   # TCP
+  - DOMAIN-KEYWORD,steampowered
+  - DOMAIN,cm5-sgp1.cm.steampowered.com
   
   - DST-PORT,27015
   - DST-PORT,27016
