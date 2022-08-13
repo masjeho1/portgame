@@ -3,6 +3,8 @@ payload:
   # TCP
   - DOMAIN-KEYWORD,steampowered
   - DOMAIN,cm5-sgp1.cm.steampowered.com
+  - DOMAIN-KEYWORD,toweroffantasy-global
+  - DOMAIN,*toweroffantasy-global.com
   
   - DST-PORT,27015
   - DST-PORT,27016
