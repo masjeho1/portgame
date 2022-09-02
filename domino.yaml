@@ -1,6 +1,7 @@
 #tcp
 payload:
-
+  - DOMAIN-KEYWORD,neptunegame
+  - DOMAIN,*neptunegame.com
   - DST-PORT,50001
   - DST-PORT,50002
   - DST-PORT,50003
