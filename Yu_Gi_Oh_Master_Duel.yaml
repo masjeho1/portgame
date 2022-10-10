@@ -5,6 +5,8 @@ payload:
   
   - DOMAIN-KEYWORD,toweroffantasy-global
   - DOMAIN,*toweroffantasy-global.com
+  - DOMAIN-KEYWORD, konami.net
+  - DOMAIN,*konami.net
   
   - DST-PORT,27015
  # - DST-PORT,27016
