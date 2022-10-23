@@ -4,7 +4,7 @@ payload:
   
   - DOMAIN-KEYWORD,toweroffantasy-global
   - DOMAIN,*toweroffantasy-global.com
-  - DOMAIN-KEYWORD,konami.net
+  - DOMAIN-KEYWORD,konami
   - DOMAIN,*konami.net
   - DOMAIN,*mo.konami.net
   
