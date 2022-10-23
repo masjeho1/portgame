@@ -1,12 +1,12 @@
-# https://nanangmrk.com/daftar-port-game-terbaru-2021/
 payload:
   # TCP
   
   
   - DOMAIN-KEYWORD,toweroffantasy-global
   - DOMAIN,*toweroffantasy-global.com
-  - DOMAIN-KEYWORD, konami.net
+  - DOMAIN-KEYWORD,konami.net
   - DOMAIN,*konami.net
+  - DOMAIN,*mo.konami.net
   
   - DST-PORT,27015
  # - DST-PORT,27016
