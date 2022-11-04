@@ -1,0 +1,24 @@
+payload:
+# Viu
+ - DOMAIN-SUFFIX,viu.com
+ - DOMAIN-SUFFIX,viu.now.com
+ - DOMAIN-SUFFIX,viu.tv
+ - DOMAIN-SUFFIX,viuapi.io
+ - DOMAIN-SUFFIX,viu-static.akamaized.net
+ - DOMAIN-SUFFIX,viu-android-artifacts.s3-ap-southeast-1.amazonaws.com
+ - DOMAIN-SUFFIX,gcpvuclip-a.akamaihd.net
+ - DOMAIN-SUFFIX,vuclip-eip2.akamaized.net
+ - DOMAIN-SUFFIX,vuclipi-a.akamaihd.net
+
+# Vidio
+ - DOMAIN-SUFFIX,prod.vid.id
+ - DOMAIN-SUFFIX,vid.id
+ - DOMAIN-SUFFIX,prod.vidiocdn.com
+ - DOMAIN-SUFFIX,vidio.com
+ - DOMAIN-SUFFIX,secureswiftcontent.com
+ - DOMAIN-SUFFIX,vidiocdn.com
+ - DOMAIN-SUFFIX,media-vidio-com.akamaized.net
+ - DOMAIN-SUFFIX,static-web-prod-vidio.akamaized.net
+ - DOMAIN-SUFFIX,geo-id-media-vidio-com.akamaized.net
+ - DOMAIN-SUFFIX,token-media-vidio-com.akamaized.net
+ - DOMAIN-SUFFIX,etslive-2-vidio-com.akamaized.net
